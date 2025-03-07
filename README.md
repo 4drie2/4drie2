@@ -1,16 +1,32 @@
-## Hi there 👋
+# Welcome to 4drie2's GitHub! 👋  
 
-<!--
-**4drie2/4drie2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Adrien Bidaux, a passionate programmer and student at 42 Le Havre.  
+I love coding, entrepreneurship, and photography 🌟.  
 
-Here are some ideas to get you started:
+This GitHub repository contains my journey as a 42 student, including all my projects and challenges!  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📂 Repository Overview
+### [42tc 🛠️](https://github.com/4drie2/42tc)  
+This repository hosts all my 42 school projects. From the basics to advanced algorithms, it's a snapshot of my progress and dedication.  
+
+Feel free to explore! 🚀  
+
+---
+
+## 📬 Connect with Me  
+- 📸 [My Photography](https://instagram.com/your-photography-link)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile-link)  
+
+---
+
+### ⚡ Highlights
+- Passionate about coding in **C** and learning new technologies 🌐.  
+- Currently working on my next **marathon training** 🏃‍♂️!  
+
+---
+
+Thank you for stopping by! 🎉  
+
+![Code](https://img.shields.io/badge/Made%20with-Love-%23FF69B4) ![42](https://img.shields.io/badge/42-Student-blue)
