@@ -3,13 +3,10 @@
 Hi, I'm Adrien Bidaux, a passionate programmer and student at 42 Le Havre.  
 I love coding, entrepreneurship, and photography.  
 
-<a href="TON_LIEN">
-  <div style="position:relative; display:inline-block;">
-    <img src="https://badge.mediaplus.ma/colorfulwaves/abidaux?1337Badge=off&UM6P=off" alt="Badge SVG" style="position:relative; z-index:1;">
-    <img src="https://42blockchain.com/42Blockchain-logo.svg" alt="PNG Overlay" style="position:absolute; top:0; left:0; z-index:2;">
-  </div>
-</a>
-
+<div style="position: relative; width: 600px; height: 200px;">
+  <img src="https://badge.mediaplus.ma/colorfulwaves/abidaux?1337Badge=off&UM6P=off" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" alt="Badge de base">
+  <img src="https://badge.mediaplus.ma/co[...]/badge42)" style="position: absolute; top: 10px; left: 10px; width: 50%; height: 50%;" alt="Logo à superposer">
+</div>
 ---
 
 ## 📂 Repository Overview
