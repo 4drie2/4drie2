@@ -6,7 +6,7 @@ I love coding, entrepreneurship, and photography.
 <a href="TON_LIEN">
   <div style="position:relative; display:inline-block;">
     <img src="https://badge.mediaplus.ma/colorfulwaves/abidaux?1337Badge=off&UM6P=off" alt="Badge SVG" style="position:relative; z-index:1;">
-    <img src="/42Blockchain-logo.svg" alt="PNG Overlay" style="position:absolute; top:0; left:0; z-index:2;">
+    <img src="https://42blockchain.com/42Blockchain-logo.svg" alt="PNG Overlay" style="position:absolute; top:0; left:0; z-index:2;">
   </div>
 </a>
 
