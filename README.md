@@ -1,4 +1,4 @@
-<div style="position: relative; display: inline-block;">
+<div style="display: flex; align-items: center;">
   <img src="https://img.shields.io/badge/42-Le_Havre-white?style=for-the-badge&logo=42" alt="Badge de base">
   
   <!-- Logo 42 Blockchain -->
