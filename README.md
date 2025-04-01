@@ -1,7 +1,7 @@
 <span style="white-space: nowrap;">
   <img src="https://img.shields.io/badge/42-Le_Havre-white?style=for-the-badge&logo=42" alt="Badge de base" style="vertical-align: middle;">
   <img src="https://media.licdn.com/dms/image/v2/D4E0BAQExVVzpAro0vg/company-logo_200_200/B4EZXYQxmSHcAI-/0/1743090031826/42startupclub_logo?e=2147483647&v=beta&t=n2Yy0WNIATZUzrZ6ruFq1_1oqimKswls-bj16sFyJk0" alt="Logo 42 Start'up" style="width: 40px; height: auto; margin-left: 10px; vertical-align: middle;">
-  <img src="https://media.licdn.com/dms/image/v2/D4E0BAQFVrdml-lG77w/company-logo_200_200/company-logo_200_200/0/1711818209772/42entrepreneurs_logo?e=2147483647&v=beta&t=tVS-k6YHMS3c_LikC1TZQewAp_fpbh4ooOeQ71vVdjg" alt="Logo 42 Entrepreneur" style="width: 40px; height: auto; margin-left: 30px; vertical-align: middle;">
+  <img href="https://42startupclub.com/" src="https://media.licdn.com/dms/image/v2/D4E0BAQFVrdml-lG77w/company-logo_200_200/company-logo_200_200/0/1711818209772/42entrepreneurs_logo?e=2147483647&v=beta&t=tVS-k6YHMS3c_LikC1TZQewAp_fpbh4ooOeQ71vVdjg" alt="Logo 42 Entrepreneur" style="width: 40px; height: auto; margin-left: 30px; vertical-align: middle;">
   <img src="https://42blockchain.com/42Blockchain-logo.svg" alt="Logo 42 Blockchain" style="width: 40px; height: auto; margin-left: 5px; vertical-align: middle;">
 </span>
 
