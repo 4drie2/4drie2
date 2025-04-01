@@ -1,3 +1,5 @@
+<img src="https://img.shields.io/badge/42-Paris-white?style=for-the-badge&logo=42" alt="Badge de base">
+
 # Welcome to 4drie2's GitHub! 👋  
 
 Hi, I'm Adrien Bidaux, a passionate programmer and student at 42 Le Havre.  
