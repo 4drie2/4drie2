@@ -23,7 +23,7 @@
 Hi, I'm Adrien Bidaux, a passionate programmer and student at 42 Le Havre.  
 I love coding, entrepreneurship, and photography.  
 
-[![abidaux's 42 stats](https://profile.intra.42.fr/users/abidaux)](https://github.com/oakoudad/badge42)
+[![abidaux's 42 stats](https://badge.mediaplus.ma/colorfulwaves/abidaux?1337Badge=off&UM6P=off)](https://profile.intra.42.fr/users/abidaux)
 
 ---
 
