@@ -1,5 +1,5 @@
 <span style="white-space: nowrap;">
-  <a href="https://42.fr" target="_blank">
+  <a href="https://42lehavre.fr" target="_blank">
     <img src="https://img.shields.io/badge/42-Le_Havre-white?style=for-the-badge&logo=42" alt="Badge de base" style="vertical-align: middle;">
   </a>
   <a href="https://www.linkedin.com/company/42startupclub/" target="_blank">
@@ -23,10 +23,7 @@
 Hi, I'm Adrien Bidaux, a passionate programmer and student at 42 Le Havre.  
 I love coding, entrepreneurship, and photography.  
 
-<div style="position: relative; width: 100%; height: auto;">
-  <img src="https://img.shields.io/badge/42-Paris-white?style=for-the-badge&logo=42" alt="Badge de base">
-  <img src="https://42blockchain.com/42Blockchain-logo.svg" style="position: absolute; top: 10px; right: 10px; width: 50px; height: auto; z-index: 2;" alt="Logo à superposer">
-</div>
+[![abidaux's 42 stats](https://profile.intra.42.fr/users/abidaux)](https://github.com/oakoudad/badge42)
 
 ---
 
