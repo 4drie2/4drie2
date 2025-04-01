@@ -1,5 +1,5 @@
 <div style="position: relative; display: inline-block;">
-  <img src="https://img.shields.io/badge/42-Paris-white?style=for-the-badge&logo=42" alt="Badge de base">
+  <img src="https://img.shields.io/badge/42-Le_Havre-white?style=for-the-badge&logo=42" alt="Badge de base">
   
   <!-- Logo 42 Blockchain -->
   <img src="https://42blockchain.com/42Blockchain-logo.svg" 
