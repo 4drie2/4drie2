@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/_-Le_Havre-white?style=for-the-badge&logo=42" alt="Badge de base">
+<img src="https://img.shields.io/badge/42-Le_Havre-white?style=for-the-badge&logo=42" alt="Badge de base">
 
 # Welcome to 4drie2's GitHub! 👋  
 
