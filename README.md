@@ -1,4 +1,4 @@
-<div style="display: flex; align-items: center;">
+<div style="position: relative; width: 100%; height: auto;">
   <img src="https://img.shields.io/badge/42-Le_Havre-white?style=for-the-badge&logo=42" alt="Badge de base">
   
   <!-- Logo 42 Start'up -->
