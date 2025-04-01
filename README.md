@@ -5,7 +5,7 @@ I love coding, entrepreneurship, and photography.
 
 <div style="position: relative; width: 600px; height: 200px;">
   <img src="https://badge.mediaplus.ma/colorfulwaves/abidaux?1337Badge=off&UM6P=off" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" alt="Badge de base">
-  <img src="https://42blockchain.com/42Blockchain-logo.svg" style="position: absolute; top: 10px; left: 10px; width: 50%; height: 50%;" alt="Logo à superposer">
+  <img src="https://42blockchain.com/42Blockchain-logo.svg" style="position: absolute; top: 10px; right: 10px; width: 20%; height: auto;" alt="Logo à superposer">
 </div>
 ---
 
