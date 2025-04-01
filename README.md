@@ -1,21 +1,22 @@
 <div style="display: flex; align-items: center;">
   <img src="https://img.shields.io/badge/42-Le_Havre-white?style=for-the-badge&logo=42" alt="Badge de base">
   
-  <!-- Logo 42 Blockchain -->
-  <img src="https://42blockchain.com/42Blockchain-logo.svg" 
-       style="position: absolute; top: 5px; right: 5px; width: 50px; height: auto; z-index: 2;" 
-       alt="Logo 42 Blockchain">
+  <!-- Logo 42 Start'up -->
+  <img src="https://media.licdn.com/dms/image/v2/D4E0BAQExVVzpAro0vg/company-logo_200_200/B4EZXYQxmSHcAI-/0/1743090031826/42startupclub_logo?e=2147483647&v=beta&t=n2Yy0WNIATZUzrZ6ruFq1_1oqimKswls-bj16sFyJk0" 
+       style="width: 20px; height: auto; margin-left: 5px;" 
+       alt="Logo 42 Start'up">
   
   <!-- Logo 42 Entrepreneur -->
   <img src="https://media.licdn.com/dms/image/v2/D4E0BAQFVrdml-lG77w/company-logo_200_200/company-logo_200_200/0/1711818209772/42entrepreneurs_logo?e=2147483647&v=beta&t=tVS-k6YHMS3c_LikC1TZQewAp_fpbh4ooOeQ71vVdjg" 
-       style="position: absolute; top: 5px; right: 60px; width: 50px; height: auto; z-index: 2;" 
+       style="width: 20px; height: auto; margin-left: 5px;" 
        alt="Logo 42 Entrepreneur">
   
-  <!-- Logo 42 Start'up -->
-  <img src="https://media.licdn.com/dms/image/v2/D4E0BAQExVVzpAro0vg/company-logo_200_200/B4EZXYQxmSHcAI-/0/1743090031826/42startupclub_logo?e=2147483647&v=beta&t=n2Yy0WNIATZUzrZ6ruFq1_1oqimKswls-bj16sFyJk0" 
-       style="position: absolute; top: 5px; right: 115px; width: 50px; height: auto; z-index: 2;" 
-       alt="Logo 42 Start'up">
+  <!-- Logo 42 Blockchain -->
+  <img src="https://42blockchain.com/42Blockchain-logo.svg" 
+       style="width: 20px; height: auto; margin-left: 5px;" 
+       alt="Logo 42 Blockchain">
 </div>
+
 
 
 
