@@ -41,112 +41,89 @@ I love coding, entrepreneurship, and photography.
 ## 📂 Repository Overview
 
 ### [ft_printf 🖨️](https://github.com/4drie2/ft_printf)
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td width="180">
+    <td width="180" style="border: none;">
       <img src="https://github.com/ayogun/42-project-badges/raw/main/badges/ft_printfe.png" alt="ft_printf Badge">
     </td>
-    <td>
+    <td style="border: none;">
       An implementation of the printf function in C. This project delves into variadic functions, format specifiers, and custom output formatting.
     </td>
   </tr>
 </table>
 
 ### [get_next_line 📄](https://github.com/4drie2/get_next_line)
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td width="180">
+    <td width="180" style="border: none;">
       <img src="https://github.com/ayogun/42-project-badges/raw/main/badges/get_next_linee.png" alt="get_next_line Badge">
     </td>
-    <td>
+    <td style="border: none;">
       A function to read a file line by line. This project focuses on file descriptors, static variables, and efficient memory usage.
     </td>
   </tr>
 </table>
 
 ### [push_swap 🔄](https://github.com/4drie2/push_swap)
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td width="180">
+    <td width="180" style="border: none;">
       <img src="https://github.com/ayogun/42-project-badges/raw/main/badges/push_swape.png" alt="push_swap Badge">
     </td>
-    <td>
+    <td style="border: none;">
       A sorting algorithm project using two stacks. This project involves algorithm optimization, stack operations, and sorting techniques.
     </td>
   </tr>
 </table>
 
 ### [fractol 🌌](https://github.com/4drie2/fractol)
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td width="180">
+    <td width="180" style="border: none;">
       <img src="https://github.com/ayogun/42-project-badges/raw/main/badges/fract-ole.png" alt="fractol Badge">
     </td>
-    <td>
+    <td style="border: none;">
       A graphical representation of fractals using the MiniLibX library. This project explores graphical programming, fractal mathematics, and user interaction.
     </td>
   </tr>
 </table>
 
 ### [pipex 🔧](https://github.com/4drie2/pipex)
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td width="180">
+    <td width="180" style="border: none;">
       <img src="https://github.com/ayogun/42-project-badges/raw/main/badges/pipexe.png" alt="pipex Badge">
     </td>
-    <td>
+    <td style="border: none;">
       A mini shell pipeline simulator. This project covers process management, piping, and redirection in Unix systems.
     </td>
   </tr>
 </table>
 
 ### [philosophers 🍽️](https://github.com/4drie2/philosophers)
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td width="180">
+    <td width="180" style="border: none;">
       <img src="https://github.com/ayogun/42-project-badges/raw/main/badges/philosopherse.png" alt="philosophers Badge">
     </td>
-    <td>
+    <td style="border: none;">
       A solution to the dining philosophers problem. This project focuses on multithreading, mutexes, and deadlock prevention.
     </td>
   </tr>
 </table>
 
 ### [minishell 🐚](https://github.com/4drie2/mi_shell)
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td width="180">
+    <td width="180" style="border: none;">
       <img src="https://github.com/ayogun/42-project-badges/raw/main/badges/minishelle.png" alt="minishell Badge">
     </td>
-    <td>
+    <td style="border: none;">
       A simplified shell implementation similar to bash. This project involves command parsing, process creation, and shell features like redirection and pipes.
     </td>
   </tr>
 </table>
 
-
-
-
-### [ft_printf 🖨️](https://github.com/4drie2/ft_printf)
-An implementation of the printf function in C. This project delves into variadic functions, format specifiers, and custom output formatting.
-
-### [get_next_line 📄](https://github.com/4drie2/get_next_line)
-A function to read a file line by line. This project focuses on file descriptors, static variables, and efficient memory usage.
-
-### [push_swap 🔄](https://github.com/4drie2/push_swap)
-A sorting algorithm project using two stacks. This project involves algorithm optimization, stack operations, and sorting techniques.
-
-### [fractol 🌌](https://github.com/4drie2/fractol)
-A graphical representation of fractals using the MiniLibX library. This project explores graphical programming, fractal mathematics, and user interaction.
-
-### [pipex 🔧](https://github.com/4drie2/pipex)
-A mini shell pipeline simulator. This project covers process management, piping, and redirection in Unix systems.
-
-### [philosophers 🍽️](https://github.com/4drie2/philosophers)
-A solution to the dining philosophers problem. This project focuses on multithreading, mutexes, and deadlock prevention.
-
-### [minishell 🐚](https://github.com/4drie2/mi_shell)
-A simplified shell implementation similar to bash. This project involves command parsing, process creation, and shell features like redirection and pipes.
 
 ---
 
