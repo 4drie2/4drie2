@@ -1,4 +1,4 @@
-<div style="width: 100%; display: flex; justify-content: center; margin-top: 0;">
+<div style="position: absolute; top: 0; left: 0; right: 0; display: flex; justify-content: center; margin: 0 auto; padding-top: 10px;">
   <span style="white-space: nowrap; display: inline-block;">
     <a href="https://42lehavre.fr" target="_blank">
       <img src="https://img.shields.io/badge/42-Le_Havre-white?style=for-the-badge&logo=42" alt="Badge de base" style="vertical-align: middle;">
@@ -14,6 +14,7 @@
     </a>
   </span>
 </div>
+
 
 
 
