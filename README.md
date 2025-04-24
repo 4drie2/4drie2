@@ -40,6 +40,20 @@ I love coding, entrepreneurship, and photography.
 
 ## 📂 Repository Overview
 
+<div align="center">
+  <h3><a href="https://github.com/4drie2/ft_printf">ft_printf 🖨️</a></h3>
+  <img src="https://github.com/ayogun/42-project-badges/raw/main/badges/ft_printfe.png" alt="42 ft_printf Badge">
+  <p>An implementation of the printf function in C. This project delves into variadic functions, format specifiers, and custom output formatting.</p>
+</div>
+
+<div align="center">
+  <h3><a href="https://github.com/4drie2/get_next_line">get_next_line 📄</a></h3>
+  <img src="https://github.com/ayogun/42-project-badges/raw/main/badges/get_next_linee.png" alt="42 get_next_line Badge">
+  <p>A function to read a file line by line. This project focuses on file descriptors, static variables, and efficient memory usage.</p>
+</div>
+
+
+
 ### [ft_printf 🖨️](https://github.com/4drie2/ft_printf)
 An implementation of the printf function in C. This project delves into variadic functions, format specifiers, and custom output formatting.
 
