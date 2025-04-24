@@ -1,4 +1,4 @@
-<span style="white-space: nowrap;">
+<span align="center" style="white-space: nowrap;">
   <a href="https://42lehavre.fr" target="_blank">
     <img src="https://img.shields.io/badge/42-Le_Havre-white?style=for-the-badge&logo=42" alt="Badge de base" style="vertical-align: middle;">
   </a>
