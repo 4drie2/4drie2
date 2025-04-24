@@ -56,7 +56,7 @@ I love coding, entrepreneurship, and photography.
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td width="180" style="border: none;">
-      <img src="https://github.com/ayogun/42-project-badges/raw/main/badges/get_next_linee.png" alt="get_next_line Badge">
+      <img src="https://github.com/ayogun/42-project-badges/raw/main/badges/get_next_linem.png" alt="get_next_line Badge">
     </td>
     <td style="border: none;">
       A function to read a file line by line. This project focuses on file descriptors, static variables, and efficient memory usage.
@@ -68,7 +68,7 @@ I love coding, entrepreneurship, and photography.
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td width="180" style="border: none;">
-      <img src="https://github.com/ayogun/42-project-badges/raw/main/badges/push_swape.png" alt="push_swap Badge">
+      <img src="https://github.com/ayogun/42-project-badges/raw/main/badges/push_swapm.png" alt="push_swap Badge">
     </td>
     <td style="border: none;">
       A sorting algorithm project using two stacks. This project involves algorithm optimization, stack operations, and sorting techniques.
@@ -80,7 +80,7 @@ I love coding, entrepreneurship, and photography.
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td width="180" style="border: none;">
-      <img src="https://github.com/ayogun/42-project-badges/raw/main/badges/fract-ole.png" alt="fractol Badge">
+      <img src="https://github.com/ayogun/42-project-badges/raw/main/badges/fract-olm.png" alt="fractol Badge">
     </td>
     <td style="border: none;">
       A graphical representation of fractals using the MiniLibX library. This project explores graphical programming, fractal mathematics, and user interaction.
