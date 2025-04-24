@@ -1,4 +1,5 @@
-<span align="center" style="white-space: nowrap;">
+<div style="display: flex; justify-content: center; width: 100%;">
+<span style="white-space: nowrap;">
   <a href="https://42lehavre.fr" target="_blank">
     <img src="https://img.shields.io/badge/42-Le_Havre-white?style=for-the-badge&logo=42" alt="Badge de base" style="vertical-align: middle;">
   </a>
@@ -12,6 +13,7 @@
     <img src="https://42blockchain.com/42Blockchain-logo.svg" alt="Logo 42 Blockchain" style="width: 40px; height: auto; margin-left: 5px; vertical-align: middle;">
   </a>
 </span>
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
