@@ -40,6 +40,19 @@ I love coding, entrepreneurship, and photography.
 
 ## 📂 Repository Overview
 
+### [libft 📚](https://github.com/4drie2/libft)
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="180" style="border: none;">
+      <img src="https://github.com/ayogun/42-project-badges/raw/main/badges/libftm.png" alt="libft Badge">
+    </td>
+    <td style="border: none;">
+      A personal implementation of essential C functions, creating a library from scratch. This project develops a deep understanding of basic algorithms, memory management, and data structures in C.
+    </td>
+  </tr>
+</table>
+
+
 ### [ft_printf 🖨️](https://github.com/4drie2/ft_printf)
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
@@ -63,6 +76,19 @@ I love coding, entrepreneurship, and photography.
     </td>
   </tr>
 </table>
+
+### Born2beRoot 🖥️
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="180" style="border: none;">
+      <img src="https://github.com/ayogun/42-project-badges/raw/main/badges/born2beroote.png" alt="Born2beRoot Badge">
+    </td>
+    <td style="border: none;">
+      A system administration project focusing on setting up a secure Debian virtual machine. This project covers partitioning, LVM, user management, firewall configuration, SSH, and system monitoring.
+    </td>
+  </tr>
+</table>
+
 
 ### [push_swap 🔄](https://github.com/4drie2/push_swap)
 <table border="0" cellspacing="0" cellpadding="0">
