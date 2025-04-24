@@ -31,7 +31,7 @@
 
 # Welcome to 4drie2's GitHub! 👋  
 
-Hi, I'm Adrien Bidaux, a passionate programmer and student at 42 Le Havre.  
+Hi, I'm Adrien, a passionate programmer and student at 42 Le Havre.  
 I love coding, entrepreneurship, and photography.  
 
 [![abidaux's 42 stats](https://badge.mediaplus.ma/colorfulwaves/abidaux?1337Badge=off&UM6P=off)](https://profile.intra.42.fr/users/abidaux)
@@ -54,6 +54,13 @@ A graphical representation of fractals using the MiniLibX library. This project 
 
 ### [pipex 🔧](https://github.com/4drie2/pipex)
 A mini shell pipeline simulator. This project covers process management, piping, and redirection in Unix systems.
+
+### [philosophers 🍽️](https://github.com/4drie2/philosophers)
+A solution to the dining philosophers problem. This project focuses on multithreading, mutexes, and deadlock prevention.
+
+### [minishell 🐚](https://github.com/4drie2/mi_shell)
+A simplified shell implementation similar to bash. This project involves command parsing, process creation, and shell features like redirection and pipes.
+
 ---
 
 ## 📬 Connect with Me  
