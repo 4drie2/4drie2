@@ -1,5 +1,5 @@
-<div style="display: flex; justify-content: center; width: 100%;">
-  <span style="white-space: nowrap; display: flex; align-items: center;">
+<div style="text-align: center;">
+  <span style="white-space: nowrap; display: inline-block;">
     <a href="https://42lehavre.fr" target="_blank">
       <img src="https://img.shields.io/badge/42-Le_Havre-white?style=for-the-badge&logo=42" alt="Badge de base" style="vertical-align: middle;">
     </a>
@@ -14,6 +14,7 @@
     </a>
   </span>
 </div>
+
 
 
 <p align="center">
