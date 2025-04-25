@@ -36,7 +36,7 @@
 Hi, I'm Adrien, a passionate programmer and student at 42 Le Havre.  
 I love coding, entrepreneurship, and photography.  
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=4drie2&theme=elegant)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=4drie2&theme=elegant" alt="GitHub Streak" /></a>
 
 ---
 
