@@ -31,7 +31,7 @@
 
 
 
-# Welcome to 4drie2's GitHub! 👋  
+# Welcome to adrien's GitHub! 👋  
 
 Hi, I'm Adrien, a passionate programmer and student at 42 Le Havre.  
 I love coding, entrepreneurship, and photography.  
