@@ -36,7 +36,7 @@
 Hi, I'm Adrien, a passionate programmer and student at 42 Le Havre.  
 I love coding, entrepreneurship, and photography.  
 
-[![abidaux's 42 stats](https://badge.mediaplus.ma/colorfulwaves/abidaux?1337Badge=off&UM6P=off)](https://profile.intra.42.fr/users/abidaux)
+[![GitHub Streak](https://streak-stats.demolab.com?user=4drie2&theme=elegant)](https://git.io/streak-stats)
 
 ---
 
