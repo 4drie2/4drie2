@@ -163,7 +163,6 @@ I love coding, entrepreneurship, and photography.
 
 ### ⚡ Highlights
 - Passionate about coding in **C** **python** **bash** and learning new technologies 🌐.  
-- Currently working on my next **marathon training** 🏃‍♂️!  
 
 ---
 
