@@ -32,6 +32,10 @@ A budget and food coach I built for myself. A photo of a receipt goes through OC
 
 <img src="assets/arch-routine.svg" width="100%" alt="routine pipeline: receipt photo, OCR, nutrition audit, bank feed, reconciliation, PostgreSQL, coach, AI spend gauge">
 
+<img src="assets/routine-screens.jpg" width="100%" alt="routine screens: weekly summary, coach, money flow from salary down to each shop, cost of a meal at home and outside">
+
+<sub>A demo instance with made-up data. The real one holds my own accounts and stays private.</sub>
+
 <br>
 
 <img src="assets/plate-musicroom.jpg" width="100%" alt="Music Room">
