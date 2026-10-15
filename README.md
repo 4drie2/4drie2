@@ -1,171 +1,90 @@
 <div align="center">
-  <a href="https://42lehavre.fr" target="_blank">
-    <img src="https://img.shields.io/badge/42-Le_Havre-white?style=for-the-badge&logo=42" alt="Badge de base">
-  </a>
-  <a href="https://www.linkedin.com/company/42startupclub/" target="_blank">
-    <img src="https://media.licdn.com/dms/image/v2/D4E0BAQExVVzpAro0vg/company-logo_200_200/B4EZXYQxmSHcAI-/0/1743090031826/42startupclub_logo?e=2147483647&v=beta&t=n2Yy0WNIATZUzrZ6ruFq1_1oqimKswls-bj16sFyJk0" alt="Logo 42 Start'up" width="40">
-  </a>
-  <a href="https://www.linkedin.com/company/42entrepreneurs/" target="_blank">
-    <img src="https://media.licdn.com/dms/image/v2/D4E0BAQFVrdml-lG77w/company-logo_200_200/company-logo_200_200/0/1711818209772/42entrepreneurs_logo?e=2147483647&v=beta&t=tVS-k6YHMS3c_LikC1TZQewAp_fpbh4ooOeQ71vVdjg" alt="Logo 42 Entrepreneur" width="40">
-  </a>
-  <a href="https://42blockchain.com/" target="_blank">
-    <img src="https://42blockchain.com/42Blockchain-logo.svg" alt="Logo 42 Blockchain" width="40">
-  </a>
+
+<img src="assets/hero.webp" width="100%" alt="A walk through the minos3D labyrinth, ending on the name Adrien">
+
+<sub>Rendered from <a href="https://github.com/4drie2/minos3D">minos3D</a>'s own map and textures, same DDA raycasting.</sub>
+
 </div>
 
+<br>
 
+Work-study student at 42 Le Havre. C and C++ for school; TypeScript for two products that run on a server I administer.
 
+<br>
 
+## I. Shipped
 
+<img src="assets/plate-league.jpg" width="100%" alt="One League">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell">
-  <img src="https://img.shields.io/badge/GNU%20Make-A42E2B?style=for-the-badge&logo=gnu&logoColor=white" alt="Make">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-</p>
+<a href="https://oneleague.fr"><img src="https://img.shields.io/website?url=https%3A%2F%2Foneleague.fr&label=oneleague.fr&style=flat-square&labelColor=0B0B0E&color=B48C28&up_message=online&down_message=down" alt="oneleague.fr status"></a>
 
+An unofficial ranked foosball league for 42 students, now also chess, Smash, Street Fighter and darts. You sign in with the 42 intranet, declare a match from a browser extension that lives inside intra.42.fr, and both players confirm the score. Elo with an anti-farming rule, live updates over SSE, tournaments, seasons, a GDPR export and delete.
 
+I administer the project's GitHub organisation and its server. Production and staging deploy from GitHub Actions, and a security audit runs every morning. The repository is private; the site is open to every 42 student.
 
+<img src="assets/arch-league.svg" width="100%" alt="One League architecture: extension and web app, Caddy, Hono API, PostgreSQL, GitHub Actions, staging">
 
+<br>
 
+<img src="assets/plate-routine.jpg" width="100%" alt="routine">
 
-# Welcome to Adrien's GitHub! 👋  
+A budget and food coach I built for myself. A photo of a receipt goes through OCR, a nutrition audit, then a reconciliation engine that pairs it with the bank transaction (amount within 2 %, date within 4 days). The audit model depends on what the month has already cost: the larger model up to 4 €, a lighter one up to 5 €, then the audit stops while OCR keeps running. The coach runs on Vertex AI in Paris. Private, self-hosted next to One League.
 
-Hi, I'm Adrien, a passionate programmer and student at 42 Le Havre.  
-I love coding, entrepreneurship, and photography.  
+<img src="assets/arch-routine.svg" width="100%" alt="routine pipeline: receipt photo, OCR, nutrition audit, bank feed, reconciliation, PostgreSQL, coach, AI spend gauge">
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=4drie2&theme=elegant" alt="GitHub Streak" /></a>
+<br>
 
----
+<img src="assets/plate-musicroom.jpg" width="100%" alt="Music Room">
 
-## 📂 Repository Overview
+Collaborative listening rooms, a 42 subject built in a team. NestJS on Fastify, Drizzle, PostgreSQL, socket.io, React. My part: Spotify sign-in and account linking with token refresh, fixes on the Google flow, most of the front end. 85 of the repository's 105 commits, written in one week.
 
-### [libft 📚](https://github.com/4drie2/libft)
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="180" style="border: none;">
-      <img src="https://github.com/ayogun/42-project-badges/raw/main/badges/libftm.png" alt="libft Badge">
-    </td>
-    <td style="border: none;">
-      A personal implementation of essential C functions, creating a library from scratch. This project develops a deep understanding of basic algorithms, memory management, and data structures in C.
-    </td>
-  </tr>
-</table>
+<br>
 
+## II. The labyrinth
 
-### [ft_printf 🖨️](https://github.com/4drie2/ft_printf)
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="180" style="border: none;">
-      <img src="https://github.com/ayogun/42-project-badges/raw/main/badges/ft_printfe.png" alt="ft_printf Badge">
-    </td>
-    <td style="border: none;">
-      An implementation of the printf function in C. This project delves into variadic functions, format specifiers, and custom output formatting.
-    </td>
-  </tr>
-</table>
+<img src="assets/labyrinth.svg" width="100%" alt="The 42 curriculum as a path through the minos3D labyrinth, 21 steps from the Piscine to KFS-1">
 
-### [get_next_line 📄](https://github.com/4drie2/get_next_line)
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="180" style="border: none;">
-      <img src="https://github.com/ayogun/42-project-badges/raw/main/badges/get_next_linem.png" alt="get_next_line Badge">
-    </td>
-    <td style="border: none;">
-      A function to read a file line by line. This project focuses on file descriptors, static variables, and efficient memory usage.
-    </td>
-  </tr>
-</table>
+<sub>
+<a href="https://github.com/4drie2/libft">libft</a> ·
+<a href="https://github.com/4drie2/get_next_line">get_next_line</a> ·
+<a href="https://github.com/4drie2/ft_printf">ft_printf</a> ·
+<a href="https://github.com/4drie2/pipex">pipex</a> ·
+<a href="https://github.com/4drie2/push_swap">push_swap</a> ·
+<a href="https://github.com/4drie2/fractol">fract-ol</a> ·
+<a href="https://github.com/4drie2/philosophers">philosophers</a> ·
+minishell (private) ·
+<a href="https://github.com/4drie2/minos3D">minos3D</a> ·
+<a href="https://github.com/4drie2/CPP00">CPP 00</a>–<a href="https://github.com/4drie2/cpp09">09</a> ·
+<a href="https://github.com/4drie2/inception">Inception</a> ·
+<a href="https://github.com/4drie2/python_data_science-0-starting">Python</a>
+</sub>
 
-### Born2beRoot 🖥️
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="180" style="border: none;">
-      <img src="https://github.com/ayogun/42-project-badges/raw/main/badges/born2beroote.png" alt="Born2beRoot Badge">
-    </td>
-    <td style="border: none;">
-      A system administration project focusing on setting up a secure Debian virtual machine. This project covers partitioning, LVM, user management, firewall configuration, SSH, and system monitoring.
-    </td>
-  </tr>
-</table>
+<br><br>
 
+## III. Workshop
 
-### [push_swap 🔄](https://github.com/4drie2/push_swap)
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="180" style="border: none;">
-      <img src="https://github.com/ayogun/42-project-badges/raw/main/badges/push_swapm.png" alt="push_swap Badge">
-    </td>
-    <td style="border: none;">
-      A sorting algorithm project using two stacks. This project involves algorithm optimization, stack operations, and sorting techniques.
-    </td>
-  </tr>
-</table>
+- [healthcheck](https://github.com/4drie2/healthcheck): a phone notification when a school session drops, without touching the lock screen. Written so classmates can set it up on their own.
+- [csv-to-poster-room-pdf](https://github.com/4drie2/csv-to-poster-room-pdf): a CSV of room assignments in, one printable door card per room out.
+- [SuperTripMaster](https://github.com/4drie2/SuperTripMaster): vehicle dashboard on an ESP32 with a 320×240 screen (speed, RPM, trip, temperatures, battery). LVGL, plus an SDL build to work without the board.
+- [logtime](https://github.com/4drie2/logtime) and [WhoConnected](https://github.com/4drie2/WhoConnected): small tools on the 42 API, monthly log time and who is on campus right now.
+- [kfs-1](https://github.com/4drie2/kfs1): Kernel From Scratch, part one, in progress. The course I write alongside the code is eleven chapters in.
+- [42calculator](https://github.com/lucas-ht/42calculator/pull/71): a small fix proposed upstream to the 42 level calculator.
 
-### [fractol 🌌](https://github.com/4drie2/fractol)
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="180" style="border: none;">
-      <img src="https://github.com/ayogun/42-project-badges/raw/main/badges/fract-olm.png" alt="fractol Badge">
-    </td>
-    <td style="border: none;">
-      A graphical representation of fractals using the MiniLibX library. This project explores graphical programming, fractal mathematics, and user interaction.
-    </td>
-  </tr>
-</table>
+<br>
 
-### [pipex 🔧](https://github.com/4drie2/pipex)
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="180" style="border: none;">
-      <img src="https://github.com/ayogun/42-project-badges/raw/main/badges/pipexe.png" alt="pipex Badge">
-    </td>
-    <td style="border: none;">
-      A mini shell pipeline simulator. This project covers process management, piping, and redirection in Unix systems.
-    </td>
-  </tr>
-</table>
+## IV. Ledger
 
-### [philosophers 🍽️](https://github.com/4drie2/philosophers)
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="180" style="border: none;">
-      <img src="https://github.com/ayogun/42-project-badges/raw/main/badges/philosopherse.png" alt="philosophers Badge">
-    </td>
-    <td style="border: none;">
-      A solution to the dining philosophers problem. This project focuses on multithreading, mutexes, and deadlock prevention.
-    </td>
-  </tr>
-</table>
+<img src="assets/ledger.svg" width="100%" alt="Every commit on main branches from October 2024 to October 2026, public and private, as a 3D skyline">
 
-### [minishell 🐚](https://github.com/4drie2/mi_shell)
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="180" style="border: none;">
-      <img src="https://github.com/ayogun/42-project-badges/raw/main/badges/minishelle.png" alt="minishell Badge">
-    </td>
-    <td style="border: none;">
-      A simplified shell implementation similar to bash. This project involves command parsing, process creation, and shell features like redirection and pipes.
-    </td>
-  </tr>
-</table>
+<br>
 
+<div align="center">
 
----
+<a href="https://42lehavre.fr"><img src="assets/chip-42lehavre.svg" height="34" alt="42 Le Havre"></a>
+<a href="https://42.fr/en/42-in-paris/42-start-up-club/"><img src="assets/chip-startupclub.svg" height="34" alt="42 Start'up Club"></a>
+<a href="https://www.linkedin.com/company/42entrepreneurs/"><img src="assets/chip-entrepreneurs.svg" height="34" alt="42 Entrepreneurs"></a>
+<a href="https://42blockchain.com/"><img src="assets/chip-blockchain.svg" height="34" alt="42 Blockchain"></a>
 
-## 📬 Connect with Me  
-- 📸 [My Photography](https://www.flickr.com/photos/195770192@N05/)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/adrien-bidaux)  
+<sub><a href="https://www.linkedin.com/in/adrien-bidaux">LinkedIn</a> · <a href="https://www.flickr.com/photos/195770192@N05/">photographs</a></sub>
 
----
-
-### ⚡ Highlights
-- Passionate about coding in **C** **python** **bash** and learning new technologies 🌐.  
-
----
-
-Thank you for stopping by! 🎉  
-
-![Code](https://img.shields.io/badge/Made%20with-Love-%23FF69B4) ![42](https://img.shields.io/badge/42-Student-blue)
+</div>
